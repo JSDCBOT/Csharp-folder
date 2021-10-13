@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\1button2actions\1button2actions\bin\Debug\1button2actions.exe.config
+C:\Users\root\source\repos\1button2actions\1button2actions\bin\Debug\1button2actions.exe
+C:\Users\root\source\repos\1button2actions\1button2actions\bin\Debug\1button2actions.pdb
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\1button2actions.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\_1button2actions.Form1.resources
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\_1button2actions.Properties.Resources.resources
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\1button2actions.csproj.GenerateResource.cache
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\1button2actions.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\1button2actions.exe
+C:\Users\root\source\repos\1button2actions\1button2actions\obj\Debug\1button2actions.pdb
